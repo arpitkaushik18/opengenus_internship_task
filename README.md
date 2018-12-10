@@ -2,7 +2,7 @@
 
 It include two tasks:-
 * Size of the webpage in bytes
-* Number of links in that page pointing to same domain (find <a> tags)
+* Number of links in that page pointing to same domain (find a tags)
 ## Getting Started
 
 These instructions will tell you about the whole working flow of project.
